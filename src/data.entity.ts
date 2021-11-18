@@ -8,7 +8,7 @@ export class Data{
     @Column()
     player: number
     @Column()
-    data: number;
+    data: string;
 }
 
 export default Data;
